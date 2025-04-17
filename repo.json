@@ -1,7 +1,7 @@
 {
     "repo_name": "com.github.byrcolin.testrepo",
     "origin": "This is a test repo",
-    "repo_uri": "https://github.com/byrcolin/testrepo/repo.json",
+    "repo_uri": "https://byrcolin.github.io/testrepo/repo.json",
     "summary": "Byrcolin's Test Objects repo.",
     "additional_info": "These objects are not real.",
     "last_updated": "2025-4-16",
